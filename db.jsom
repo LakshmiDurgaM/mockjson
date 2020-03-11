@@ -1,0 +1,26 @@
+{
+  "entities":[
+          {
+              "AttributeName":"EntityName",
+              "CED":"Lakshmi",
+              "ALACRA":"Durga",
+              "DUNS":"Nandam",
+              "CESIUM":"Anil"
+          },
+          {
+              "AttributeName":"Tax Id",
+              "CED":"Parvathi",
+              "ALACRA":"Durga",
+              "DUNS":"Nandam",
+              "CESIUM":"Anil"
+          },
+          {
+              "AttributeName":"Parent Company",
+              "CED":"Parvathi",
+              "ALACRA":"Durga",
+              "DUNS":"Nandam",
+              "CESIUM":"Anil"
+          }
+  
+  ]
+}
